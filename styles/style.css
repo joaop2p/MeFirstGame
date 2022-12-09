@@ -1,0 +1,41 @@
+header{
+    text-align: center;
+    background-color: gray;
+    font-size: medium;
+}
+.A{
+    transform: rotate(45deg);
+}
+.B{
+    transform: rotate(-90deg);
+}
+.C{
+    transform: rotate(65deg);
+}
+.D{
+    transform: rotate(120deg);
+}
+.E{
+    transform: rotate(39deg);
+}
+.fundo{
+    height: 100%;
+    width: 100%;
+}
+/* Tudo aquilo que está comentado são testes de uma outra página que também estou trabalhando */
+/* @media  screen and (max-width:1366px) {
+    img{
+        height: 50%;
+        width: 50%;
+    }
+} */
+
+/* .menu ul li {
+    display: inline-block;
+    
+}
+.menu  {
+    background-color: aqua;
+    height: 50px;
+ 
+} */
